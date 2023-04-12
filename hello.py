@@ -1,4 +1,4 @@
 print("Hello World!")
 
-a = 2
+a = [1, 2, 3, 4]
 print(a)
